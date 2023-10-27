@@ -1,13 +1,10 @@
 # 1. Blog
 https://zenn.dev/hinatha
 
-# 2. Wantedly
-https://www.wantedly.com/id/hinatha
-
-# 3. HackerRank
+# 2. HackerRank
 https://www.hackerrank.com/hinatha
 
-# 4. Supportable technologies
+# 3. Supportable technologies
 API
 - Python(Flask/Django/fastApi)
 - Node.js(Nest.js/Express)
